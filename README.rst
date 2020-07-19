@@ -15,3 +15,6 @@ That's it!!
 
 https://github.com/pymupdf/PyMuPDF
 
+
+Initial steps
+https://code.visualstudio.com/docs/python/tutorial-flask

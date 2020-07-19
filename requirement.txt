@@ -1,0 +1,6 @@
+flask
+falsk-appbuilder
+mongoengine
+fitz
+flask-frontend
+pymupdf

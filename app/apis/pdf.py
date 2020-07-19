@@ -1,4 +1,4 @@
-import fitz
+import fitz ## this fitz for pdf is different check during pip install
 from flask_appbuilder.api import BaseApi, expose
 from app import appbuilder
 
