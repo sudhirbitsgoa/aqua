@@ -18,3 +18,9 @@ https://github.com/pymupdf/PyMuPDF
 
 Initial steps
 https://code.visualstudio.com/docs/python/tutorial-flask
+
+
+How to start
+Open Code 
+select env ctrl+shift+p
+open termial from top
